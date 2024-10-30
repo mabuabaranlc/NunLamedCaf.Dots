@@ -349,3 +349,8 @@ You're done! You have manually configured your development environment following
 If you have any further questions or need additional assistance, feel free to reach out to the Gentleman.Dots community or consult the project's documentation. 
 
 Happy coding! 
+
+Optional:
+```bash
+curl -L https://raw.githubusercontent.com/FelixKratz/dotfiles/master/install_sketchybar.sh | sh
+```
